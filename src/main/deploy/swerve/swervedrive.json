@@ -1,0 +1,11 @@
+{
+  "godmode": false,
+  "imu": {
+    "type": "pigeon2",
+    "id": 13,
+    "canbus": null
+  },
+  "invertedIMU": false,
+  "driveMotorUncertainty": 1.0,
+  "angleMotorUncertainty": 1.0
+}
